@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Jan 2024 22:24:34 at https://ppthanh216.wixsite.com/my-site-2 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ppthanh216.wixsite.com/my-site-2 -O1 "C:\My Web Sites\shop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:25:20	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/ (from https://ppthanh216.wixsite.com/my-site-2)
+22:26:33	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/media/emptystate.85a4add5.svg (from https://ppthanh216.wixsite.com/my-site-2)
+22:27:00	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/sitemap.xml (from https://ppthanh216.wixsite.com/my-site-2)
+22:27:00	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/feed.xml (from https://ppthanh216.wixsite.com/my-site-2)
+22:27:00	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/${n.uri} (from https://ppthanh216.wixsite.com/my-site-2)
+22:27:00	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/decodeURIComponent(e (from https://ppthanh216.wixsite.com/my-site-2)
+22:27:10	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/category/sitemap.xml (from https://ppthanh216.wixsite.com/my-site-2/category/all-products)
+22:27:10	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/category/feed.xml (from https://ppthanh216.wixsite.com/my-site-2/category/all-products)
+22:27:35	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/robots.txt (from https://ppthanh216.wixsite.com/my-site-2/gift-card)
+22:27:35	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/feed.xml (from https://ppthanh216.wixsite.com/my-site-2/gift-card)
+22:27:35	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/${n.uri} (from https://ppthanh216.wixsite.com/my-site-2/gift-card)
+22:27:35	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/decodeURIComponent(e (from https://ppthanh216.wixsite.com/my-site-2/gift-card)
+22:28:24	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/product-page/sitemap.xml (from https://ppthanh216.wixsite.com/my-site-2/product-page/free-fire-account-1)
+22:28:24	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/product-page/feed.xml (from https://ppthanh216.wixsite.com/my-site-2/product-page/free-fire-account-1)
+22:29:02	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/group/sitemap.xml (from https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-europe?scrollToTop=1)
+22:29:02	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/group/feed.xml (from https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-europe?scrollToTop=1)
+22:29:27	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/media/emptystate.85a4add5.svg (from https://ppthanh216.wixsite.com/my-site-2/home)
+22:29:27	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-europe/sitemap.xml (from https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-europe/discussion)
+22:29:27	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-europe/feed.xml (from https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-europe/discussion)
+22:29:36	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/profile/d8041be6-888e-4459-bddf-b3356201816c/sitemap.xml (from https://ppthanh216.wixsite.com/my-site-2/profile/d8041be6-888e-4459-bddf-b3356201816c/profile?scrollToTop=1)
+22:29:36	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/profile/d8041be6-888e-4459-bddf-b3356201816c/feed.xml (from https://ppthanh216.wixsite.com/my-site-2/profile/d8041be6-888e-4459-bddf-b3356201816c/profile?scrollToTop=1)
+22:29:39	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-australia/sitemap.xml (from https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-australia/discussion)
+22:29:39	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-australia/feed.xml (from https://ppthanh216.wixsite.com/my-site-2/group/traveling-in-australia/discussion)
+22:29:40	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/profile/ppthanh216/sitemap.xml (from https://ppthanh216.wixsite.com/my-site-2/profile/ppthanh216/profile)
+22:29:40	Error: 	"Not Found" (404) at link https://ppthanh216.wixsite.com/my-site-2/profile/ppthanh216/feed.xml (from https://ppthanh216.wixsite.com/my-site-2/profile/ppthanh216/profile)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 9 seconds : 193 links scanned, 167 files written (93054337 bytes overall) [21520880 bytes received at 69646 bytes/sec], 91253128 bytes transferred using HTTP compression in 132 files, ratio 20%, 1.5 requests per connection
+(25 errors, 0 warnings, 0 messages)
